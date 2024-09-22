@@ -1,1 +1,1 @@
-# FINAL-EDA
+Development of a system that processes a text file, normalizes the words by removing accents, and stores them in different data structures for frequency counting. The code was implemented in C++ using the ICU (International Components for Unicode) library for Unicode string manipulation.
